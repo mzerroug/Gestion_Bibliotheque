@@ -1,0 +1,11 @@
+id,name,email,password,role
+550e8400-e29b-41d4-a716-446655440001,Admin User,admin@library.com,admin123,ADMIN
+550e8400-e29b-41d4-a716-446655440002,John Doe,john@library.com,john123,MEMBER
+550e8400-e29b-41d4-a716-446655440003,Jane Smith,jane@library.com,jane123,MEMBER
+550e8400-e29b-41d4-a716-446655440004,Sarah Wilson,sarah@library.com,sarah123,LIBRARIAN
+550e8400-e29b-41d4-a716-446655440005,Mike Johnson,mike@library.com,mike123,MEMBER
+550e8400-e29b-41d4-a716-446655440006,David Brown,david@library.com,david123,LIBRARIAN
+550e8400-e29b-41d4-a716-446655440007,Emily Davis,emily@library.com,emily123,MEMBER
+550e8400-e29b-41d4-a716-446655440008,Head Librarian,head@library.com,head123,ADMIN
+550e8400-e29b-41d4-a716-446655440009,Lisa Anderson,lisa@library.com,lisa123,MEMBER
+550e8400-e29b-41d4-a716-446655440010,Tom Wilson,tom@library.com,tom123,LIBRARIAN
