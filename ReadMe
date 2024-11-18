@@ -1,0 +1,45 @@
+LibraryManagementSystem/
+├── pom.xml
+├── README.md
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   └── library/
+│   │   │   │       ├── Main.java
+│   │   │   │       ├── model/
+│   │   │   │       │   ├── Book.java
+│   │   │   │       │   ├── User.java
+│   │   │   │       │   ├── Loan.java
+│   │   │   │       │   └── UserRole.java
+│                   ├── model/
+│   │   │   │       │   ├── Book.java
+│   │   │   │       │   ├── User.java
+│   │   │   │       │   ├── Loan.java
+│   │   │   │       │   └── UserRole.java
+│   │   │   │       │   └── CurrentUser.java
+│   │   │   │       ├── controller/
+│   │   │   │       │   └── LibraryController.java
+│   │   │   │       ├── view/
+│   │   │   │       │   └── LoginFrame.java
+│   │   │   │       │   └── MainFrame.java
+│   │   │   │       ├── database/
+│   │   │   │       │   └── Book.csv
+│   │   │   │       │   └── Loan.csv
+│   │   │   │       │   └── User.csv
+│   │   │   │       └── dao/
+│   │   │   │           └── CSVHandler.java
+│   │   └── resources/
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── library/
+│                   └── controller/
+│                       └── LibraryControllerTest.java
+└── target/
+
+
+
+To run the project Use:
+mvn clean install
+mvn exec:java -Dexec.mainClass="com.library.Main"
