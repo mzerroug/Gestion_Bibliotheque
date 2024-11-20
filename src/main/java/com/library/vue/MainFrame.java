@@ -21,7 +21,7 @@ public class MainFrame extends JFrame {
     }
 
     private void setupUI() {
-        setTitle("Library Management System");
+        setTitle("Bilbl-Tech");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(1200, 800);
         setLocationRelativeTo(null);
