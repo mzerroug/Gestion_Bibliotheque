@@ -1,6 +1,3 @@
-##Maha Portfolio
-Welcome to my personal portfolio! This project showcases my skills, experience, and the work I've done throughout my career in software development, including web applications, software engineering, and more.
-
 
 
 # 📚 Library Management System
